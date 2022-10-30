@@ -33,8 +33,16 @@ Update accordingly the boiler plate configuration at `webpack.common.js` and `we
 ```
 npm install 
 npm run #Run the application command and open in http://localhost:8080
-npm run build # production build, It generate html bundle, just copy and can use any static serving servers.
 ```
 
-#### 2. Where to make change code?
+#### 2. Where to make the code change?
    from `./src/index.html`
+
+
+#### 3. How to use this at production ready?
+ Production build, It generate static app html bundle at dist folder, just copy the dist folder 
+ use at any static serving servers.
+```
+npm run build  #generate static build
+
+```
