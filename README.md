@@ -1,8 +1,8 @@
 ### What is in this repo?
 
-A simple `webpack` starter application with Bootstrap UI developement. This repo includes basic bootstrap 5 css, js and depedency plugins.
+A simple `webpack` starter boiler plate app for UI markup development. This repo includes basic bootstrap5 CSS, JS and depedency plugins.
 
-### How it started?
+### How this repo started?
 
 #### 1. Follow the simple steps and commands
 ```
@@ -24,7 +24,7 @@ touch dist/index.html src/js/main.js src/scss/styles.scss webpack.config.js #Cre
 
 ```
 #### 2. Configure Webpack
-
+Update accordingly the boiler plate configuration at `webpack.common.js` and `webpack.dev.js`files for developent.
 
 ### How can we use this starter application
 
