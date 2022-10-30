@@ -24,7 +24,7 @@ touch dist/index.html src/js/main.js src/scss/styles.scss webpack.config.js #Cre
 
 ```
 #### 2. Configure Webpack
-Update accordingly the boiler plate configuration at `webpack.common.js` and `webpack.dev.js`files for developent.
+Update the boiler plate configuration at `webpack.common.js` and `webpack.dev.js`files for developent.
 
 ### How can we use this starter application in development?
 
