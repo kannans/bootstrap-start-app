@@ -1,4 +1,4 @@
-### What is in his repo?
+### What is in this repo?
 
 A simple `webpack` starter application with Bootstrap UI developement. This repo includes basic bootstrap 5 css, js and depedency plugins.
 
@@ -28,7 +28,7 @@ touch dist/index.html src/js/main.js src/scss/styles.scss webpack.config.js #Cre
 
 ### How can we use this starter application
 
-clone this repo
+#### 1. Clone this repo `git clone git@github.com:kannans/bootstrap-start-app.git`
 
 ```
 npm install 
@@ -36,4 +36,5 @@ npm run #Run the application command and open in http://localhost:8080
 npm run build # production build, It generate html bundle, just copy and can use any static serving servers.
 ```
 
-Start change your code from ./src/index.html
+#### 2. Where to make change code?
+   from `./src/index.html`
