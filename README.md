@@ -26,13 +26,14 @@ touch dist/index.html src/js/main.js src/scss/styles.scss webpack.config.js #Cre
 #### 2. Configure Webpack
 Update accordingly the boiler plate configuration at `webpack.common.js` and `webpack.dev.js`files for developent.
 
-### How can we use this starter application
+### How can we use this starter application in development?
 
 #### 1. Clone this repo `git clone git@github.com:kannans/bootstrap-start-app.git`
 
 ```
-npm install 
-npm run #Run the application command and open in http://localhost:8080
+npm install #Make sure machine has node v16+
+npm start #Run the application command and open in http://localhost:8080
+
 ```
 
 #### 2. Where to make the code change?
